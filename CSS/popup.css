@@ -1,0 +1,23 @@
+*{
+	font-family: 'Dosis', sans-serif;
+	color:#0410b8e5;
+}
+
+h1{
+	color:#28991d;
+}
+
+#content{
+	width:250px;
+}
+
+a{
+	text-decoration:none;
+}
+button{
+	width:200px;
+	font-size:15px;
+}
+#rules{
+	text-decoration: underline;
+}

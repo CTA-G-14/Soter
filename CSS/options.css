@@ -1,0 +1,33 @@
+*{
+	font-family: 'Dosis', sans-serif;
+	color:#01ac78e5;
+}
+body{
+	overflow: hidden;
+}
+
+#content{
+	overflow-y: scroll;
+	max-height: 400px;
+}
+
+.delete{
+	color:#28991d;
+}
+textarea, .domain_regex{
+	font-family: sans-serif;
+	width: 100%;
+	border:1px solid #0410b8e5;
+}
+
+a{
+	padding:3px;
+	border:1px solid #fff;
+	text-decoration:none;
+	color:#cccccc;
+}
+
+a:hover{
+	text-decoration:none;
+	color:#F4F4F4;
+}

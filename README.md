@@ -2,7 +2,7 @@
 Detecting and Blocking malicious URL using Machine Learning
 
 
-Download extention: https://github.com/CTA-G-16/Soter.
+Download extention: https://github.com/CTA-G-14/Soter.
 ![step1](https://user-images.githubusercontent.com/61678470/117578627-dff48500-b10c-11eb-9645-79d31e1c2741.png)
 
 
